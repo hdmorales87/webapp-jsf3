@@ -1,0 +1,12 @@
+org\hmorales\webapp\jsf3\repositories\ProductoRepositoryImpl.class
+org\hmorales\webapp\jsf3\converters\CategoriaConverter.class
+org\hmorales\webapp\jsf3\repositories\CrudRepository.class
+org\hmorales\webapp\jsf3\entities\Producto.class
+org\hmorales\webapp\jsf3\ProducerEntityManager.class
+org\hmorales\webapp\jsf3\ProducerResources.class
+org\hmorales\webapp\jsf3\services\ProductoServiceImpl.class
+org\hmorales\webapp\jsf3\repositories\CategoriaRepositoryImpl.class
+org\hmorales\webapp\jsf3\controllers\ProductoController.class
+org\hmorales\webapp\jsf3\entities\Categoria.class
+org\hmorales\webapp\jsf3\services\ProductoService.class
+org\hmorales\webapp\jsf3\controllers\LenguajeController.class
